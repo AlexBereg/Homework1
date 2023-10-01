@@ -15,5 +15,7 @@ public class Main {
 
 
             System.out.printf("Что то поменял в основной ветке");}
+
+        System.out.printf("   + что то поменял в доп ветке");
     }
 }
